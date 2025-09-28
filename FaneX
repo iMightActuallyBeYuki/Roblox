@@ -44,7 +44,7 @@ local WhatIsCurrentlyLoading = ""
 local IsDoneWithLoadingFriends = false
 local LoadingFriendsText = ""
 
-local discordnames = "Yukii#5910", "ArcX#0737", "Micro#8956", "4Rts#3958"
+local discordnames = "qwmt", "ArcX#0737", "Micro#8956", "4Rts#3958"
 
 if not getgenv().RandomNumber then
 	getgenv().RandomNumber = math.random(0, 1000000000)
